@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string name="app_name">KaraokeSearcher</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="radio_button_title_select_text">曲名</string>
+    <string name="radio_button_artist_select_text">歌手名</string>
+    <string name="radio_button_title_artist_select_text">曲名＆歌手名</string>
+    <string name="search_view_query_hint_title">曲名を入力してください</string>
+    <string name="search_view_query_hint_artist">歌手名を入力してください</string>
+    <string name="search_view_query_hint_title_artist">曲名と歌手名をスペース区切りで入力してください</string>
+    <string name="text_view_no_search_text">検索結果がここに表示されます.\n「曲名＆歌手名」で検索する場合は、\n「曲名　歌手名」で検索してください.</string>
+    <string name="toast_empty_query">検索キーワードを正しく入力してください</string>
+    <string name="toast_search_not_found">条件に合致する曲が見つかりませんでした</string>
+    <string name="progress_dialog_searching">検索中...</string>
+    <string name="toast_search_result">%d件の曲が見つかりました</string>
 </resources>
